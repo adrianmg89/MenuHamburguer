@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MenuHamburguer</string>
+
+    <string name="abrirIzq">Abrir</string>
+    <string name="cerrarIzq">Cerrar</string>
+    <string name="abrirDer">Abrir</string>
+    <string name="cerrarDer">Cerrar</string>
+</resources>
